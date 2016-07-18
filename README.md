@@ -7,6 +7,8 @@
 
 
 
-Present Delivery
+Present Delivery Guy
 
-Christmas themed android game. Features a basic 2D physics engine. 
+Christmas themed android game. Features a basic 2D physics engine.
+
+You can try out the compiled at: https://play.google.com/store/apps/details?id=com.FlappySanta&hl=en_GB
